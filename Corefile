@@ -4,14 +4,8 @@
     errors
 }
 
-pixelcorp.local:53 {
-    file /root/example.db
-    log
-    errors
-}
-
-.local:53 {
-    file /root/example.db
+pixelcorp.vmw {
+    hosts /root/hosts.pixelcorp
     log
     errors
 }

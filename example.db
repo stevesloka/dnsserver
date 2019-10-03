@@ -1,2 +1,0 @@
-pixelcorp.local.        IN  SOA dns.pixelcorp.local. steve.stevesloka.com. 2015082541 7200 3600 1209600 3600
-vsphere.pixelcorp.local.   IN  A   192.168.146.10

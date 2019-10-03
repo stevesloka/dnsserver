@@ -1,0 +1,4 @@
+# The following lines are desirable for IPv4 capable hosts
+127.0.0.1       localhost
+172.16.216.10   vsphere.pixelcorp.vmw         vsphere
+172.16.216.240  esxi.pixelcorp.vmw            esxi
